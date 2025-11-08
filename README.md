@@ -1,6 +1,7 @@
 # Improving Customer Segmentation through Dimensionality Reduction (PCA)
 
-<img width="1325" height="851" alt="image" src="https://github.com/user-attachments/assets/297840d0-f203-4191-82be-216472e3d7b4" />
+<img width="1048" height="855" alt="image" src="https://github.com/user-attachments/assets/36d6c562-1476-486c-8379-745583bb5736" />
+
 
 ## 📌 Background
 In an increasingly data-driven business environment, customer segmentation plays a critical role in understanding customer behavior and driving personalized marketing. However, as datasets grow in size and complexity, clustering algorithms often struggle with high-dimensional data. To overcome this challenge, dimensionality reduction techniques like **Principal Component Analysis (PCA)** can be employed to simplify the data while preserving its key structure and variance.
