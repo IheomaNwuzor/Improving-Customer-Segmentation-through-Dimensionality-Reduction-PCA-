@@ -1,4 +1,4 @@
-# 🧠 Improving Customer Segmentation through Dimensionality Reduction (PCA)
+# Improving Customer Segmentation through Dimensionality Reduction (PCA)
 
 <img width="1325" height="851" alt="image" src="https://github.com/user-attachments/assets/297840d0-f203-4191-82be-216472e3d7b4" />
 
